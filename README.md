@@ -42,7 +42,8 @@ except Exception as e:
 ```
 
 ### Output:
-![output](Capture.PNG)
+![image](https://github.com/MSowmya28/Ex-8--AAI/assets/94154791/a6943067-ad1b-4ef0-8ec2-aabbea9029e0)
+
 
 <H3> Result:</H3>
 Thus the python program for Speech Recognition is implemented successfully.
